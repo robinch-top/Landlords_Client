@@ -826,11 +826,11 @@
   "project": {
     "version": "0.0.0-local",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
+      "projectUniqueName": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
       "projectName": "MongoDB.Bson",
-      "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
+      "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
       "packagesPath": "C:\\Users\\chenbin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\obj\\",
+      "outputPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

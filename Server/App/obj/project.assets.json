@@ -6635,11 +6635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\App\\Server.App.csproj",
+      "projectUniqueName": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\App\\Server.App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\App\\Server.App.csproj",
+      "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\App\\Server.App.csproj",
       "packagesPath": "C:\\Users\\chenbin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\App\\obj\\",
+      "outputPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6658,8 +6658,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ET.Core\\Server.ET.Core.csproj": {
-              "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ET.Core\\Server.ET.Core.csproj"
+            "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ET.Core\\Server.ET.Core.csproj": {
+              "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ET.Core\\Server.ET.Core.csproj"
             }
           }
         }

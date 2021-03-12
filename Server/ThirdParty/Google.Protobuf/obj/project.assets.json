@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
+      "projectUniqueName": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
       "projectName": "Google.Protobuf",
-      "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
+      "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
       "packagesPath": "C:\\Users\\chenbin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\Google.Protobuf\\obj\\",
+      "outputPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ThirdParty\\Google.Protobuf\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -731,8 +731,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
-              "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
+            "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+              "projectPath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l/rNK6emAcBXa+prmgNEMffwiaA/ed8PG5Twjgt1xxlouBlG3yOXfMShesm4qXordJiXAc4XZUuU+IygG/Kq6w==",
+  "dgSpecHash": "7DVAATKhnKc7FFE8z7+4R/+ETte4UqQaDIu2rOrDclZBMVO0IgFhzVGprBCHQdkFJ4E8tQsXwyDQh0sg4mk/bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\App\\Server.App.csproj",
+  "projectFilePath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\App\\Server.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chenbin\\.nuget\\packages\\commandlineparser\\2.2.1\\commandlineparser.2.2.1.nupkg.sha512",
     "C:\\Users\\chenbin\\.nuget\\packages\\commandlineparser.core\\1.0.1\\commandlineparser.core.1.0.1.nupkg.sha512",

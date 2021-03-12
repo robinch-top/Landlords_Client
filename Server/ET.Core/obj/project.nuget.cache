@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WjMrTugG4xBXchnmKCrbTY7MXC5vf3KynFNuGLrUGcdS2urgte5s9rm3ZkNbrkETPSxUjp3Bs26dPPkwMZXMyg==",
+  "dgSpecHash": "vl/YuDW5Fw05exi0H4fPWSGjHKi76HHMNXeXB+P20e3YhDTQ0ynW5iVyVECereahXLT0Tz+l6LkKXPvYX1UlLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Server\\Server\\ET.Core\\Server.ET.Core.csproj",
+  "projectFilePath": "C:\\Users\\chenbin\\Desktop\\myDemo\\unity_project\\Landlords\\Landlords_Client\\Server\\ET.Core\\Server.ET.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chenbin\\.nuget\\packages\\commandlineparser\\2.2.1\\commandlineparser.2.2.1.nupkg.sha512",
     "C:\\Users\\chenbin\\.nuget\\packages\\dnsclient\\1.0.7\\dnsclient.1.0.7.nupkg.sha512",
