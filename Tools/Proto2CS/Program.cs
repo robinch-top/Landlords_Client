@@ -35,12 +35,16 @@ namespace ETTools
 
             Proto2CS("ETModel", "OuterMessage.proto", clientMessagePath, "OuterOpcode", 100);
             Proto2CS("ETModel", "HotfixMessage.proto", clientMessagePath, "HotfixOpcode", 10000);
-            
+
+            Proto2CS("ETModel", "OuterMessage.proto", serverMessagePath, "OuterOpcode", 100);
+            Proto2CS("ETModel", "HotfixMessage.proto", serverMessagePath, "HotfixOpcode", 10000);
+
             Console.WriteLine("proto2cs succeed!");
         }
 
         private const string protoPath = ".";
         private const string clientMessagePath = "../Unity/Assets/ET.Core/Module/Message/";
+        private const string serverMessagePath = "../Server/ET.Core/Module/Message/";
         private const string hotfixMessagePath = "../Unity/Assets/Model/Module/Message/";
         private static readonly char[] splitChars = { ' ', '\t' };
         private static readonly List<OpcodeInfo> msgOpcode = new List<OpcodeInfo>();

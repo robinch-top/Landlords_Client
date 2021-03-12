@@ -101,3 +101,88 @@ message G2C_LoginGate_Back // IResponse
 	string Message = 92;
 	int64 UserID = 1;
 }
+
+//客户端登陆网关请求
+message A0003_LoginGate_C2G // IRequest
+{
+	int32 RpcId = 90;
+	int64 GateLoginKey = 1;
+}
+//客户端登陆网关返回
+message A0003_LoginGate_G2C // IResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	int64 UserID = 1;
+}
+//客户端登陆认证请求
+message A0002_Login_C2R // IRequest
+{
+	int32 RpcId = 90;
+	string Account = 1; //假定的账号
+	string Password = 2; //假定的密码
+}
+//客户端登陆认证返回
+message A0002_Login_R2C // IResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	string GateAddress = 1;
+	int64 GateLoginKey = 2;
+}
+
+//客户端注册请求
+message A0001_Register_C2R // IRequest
+{
+	int32 RpcId = 90;
+	string Account = 1; //假定的账号
+	string Password = 2; //假定的密码
+}
+
+//客户端注册请求回复
+message A0001_Register_R2C // IResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+}
+//获取用户信息
+message A1001_GetUserInfo_C2G // IRequest
+{
+	int32 RpcId = 90;
+}
+message userinfo // IMessage
+{
+	string UserName = 1;
+	int32 Level = 2;
+	int64 Money = 3;
+	int64 Phone = 4;
+	string Email = 5;
+	string Sex = 6;
+	string Title = 7;
+}
+//返回用户信息
+//RpcID,Error,Message是actor RPC消息固有的
+message A1001_GetUserInfo_G2C // IResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	userinfo userinfo=1;
+}
+// 设置用户信息
+message A1001_SetUserInfo_REQ // IRequest
+{
+	int32 RpcId = 90;
+	userinfo userinfo=1;
+}
+// 设置用户信息
+message A1001_SetUserInfo_ACK // IResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	userinfo userinfo=1;
+}

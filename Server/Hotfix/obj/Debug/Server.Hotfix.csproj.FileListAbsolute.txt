@@ -1,0 +1,12 @@
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\libkcp.dylib
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\libkcp.so
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\Hotfix.deps.json
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\Hotfix.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\Hotfix.pdb
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\Hotfix\obj\Debug\Server.Hotfix.csprojAssemblyReference.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfoInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfo.cs
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CoreCompileInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CopyComplete
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\Hotfix\obj\Debug\Hotfix.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\Hotfix\obj\Debug\Hotfix.pdb

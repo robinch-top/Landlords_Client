@@ -1,0 +1,17 @@
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\libkcp.dylib
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\libkcp.so
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\NLog.config
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\App.dll.config
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\App.deps.json
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\App.runtimeconfig.json
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\App.runtimeconfig.dev.json
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\App.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\App.pdb
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\App\obj\Debug\Server.App.csprojAssemblyReference.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\App\obj\Debug\Server.App.AssemblyInfoInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\App\obj\Debug\Server.App.AssemblyInfo.cs
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\App\obj\Debug\Server.App.csproj.CopyComplete
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\App\obj\Debug\App.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\App\obj\Debug\App.pdb
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\App\obj\Debug\Server.App.genruntimeconfig.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\App\obj\Debug\Server.App.csproj.CoreCompileInputs.cache

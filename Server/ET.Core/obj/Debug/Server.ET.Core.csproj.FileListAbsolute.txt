@@ -1,0 +1,12 @@
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\libkcp.dylib
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\libkcp.so
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\ET.Core.deps.json
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\ET.Core.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Bin\ET.Core.pdb
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ET.Core\obj\Debug\Server.ET.Core.csprojAssemblyReference.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ET.Core\obj\Debug\Server.ET.Core.AssemblyInfoInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ET.Core\obj\Debug\Server.ET.Core.AssemblyInfo.cs
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.CoreCompileInputs.cache
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ET.Core\obj\Debug\Server.ET.Core.csproj.CopyComplete
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ET.Core\obj\Debug\ET.Core.dll
+C:\Users\chenbin\Desktop\myDemo\unity_project\Landlords\Landlords_Server\Server\ET.Core\obj\Debug\ET.Core.pdb
